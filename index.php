@@ -5,4 +5,7 @@ $categorias[] = 'infantil';
 $categorias[] = 'adolescentes';
 $categorias[] = 'adulto';
 
-print_r($categorias);
+$nome = 'Eduardo';
+$idade = 18;
+
+var
